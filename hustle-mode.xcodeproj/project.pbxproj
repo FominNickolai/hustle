@@ -12,6 +12,7 @@
 		B72642221F67BCA7001D8CB1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72642201F67BCA7001D8CB1 /* Main.storyboard */; };
 		B72642241F67BCA7001D8CB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B72642231F67BCA7001D8CB1 /* Assets.xcassets */; };
 		B72642271F67BCA7001D8CB1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B72642251F67BCA7001D8CB1 /* LaunchScreen.storyboard */; };
+		B726422F1F67BCDC001D8CB1 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = B726422E1F67BCD9001D8CB1 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B72642231F67BCA7001D8CB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B72642261F67BCA7001D8CB1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B72642281F67BCA7001D8CB1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B726422E1F67BCD9001D8CB1 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				B72642231F67BCA7001D8CB1 /* Assets.xcassets */,
 				B72642251F67BCA7001D8CB1 /* LaunchScreen.storyboard */,
 				B72642281F67BCA7001D8CB1 /* Info.plist */,
+				B726422E1F67BCD9001D8CB1 /* hustle-on.wav */,
 			);
 			path = "hustle-mode";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B726422F1F67BCDC001D8CB1 /* hustle-on.wav in Resources */,
 				B72642271F67BCA7001D8CB1 /* LaunchScreen.storyboard in Resources */,
 				B72642241F67BCA7001D8CB1 /* Assets.xcassets in Resources */,
 				B72642221F67BCA7001D8CB1 /* Main.storyboard in Resources */,
